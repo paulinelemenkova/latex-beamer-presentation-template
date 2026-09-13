@@ -22,7 +22,7 @@ references). The included PDF shows the expected result.
 
 ## Author
 
-**Dr Polina Lemenkova**  
+**Polina Lemenkova**  
 ORCID: https://orcid.org/0000-0002-5759-1089
 
 ## License
